@@ -1,0 +1,10 @@
+==> 1st Lecture Link:
+
+https://www.youtube.com/watch?v=hDGnHdv3zRM&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD
+
+--> In this video you will learn about how to install unity and Visual Studio
+
+--> just follow the simple steps and install both unity and Visual Studio
+
+
+
