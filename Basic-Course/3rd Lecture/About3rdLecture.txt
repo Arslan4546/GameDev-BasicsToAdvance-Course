@@ -1,0 +1,79 @@
+3rd Lecture Link:
+
+https://www.youtube.com/watch?v=pSJHqbc8Rpw&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=3
+
+Concepts In 3rd Lecture:
+
+--> iss mai unity k essiential concepts ko explain kia gya hia 
+
+
+--> by default jo bhi object create hoga uss k 2 by default objects hon gy 1) camera 2) direction light
+
+==> SceneView:
+
+--> scene view wo section hia jiss jiss mai humm sari game ko develop krty hain 
+
+==> Game Section: 
+
+game section is just like the console where we see the game reflection of our game
+
+==> Hirarchy Section :
+ye wo section hai jhan py by default hmary pass 2 object pry hoty hain camera and light 
+or iss mai game k related har object humm create krty hain 
+==> SceneView:
+
+--> scene view wo section hia jiss jiss mai humm sari game ko develop krty hain 
+==> SceneView:
+
+--> scene view wo section hia jiss jiss mai humm sari game ko develop krty hain 
+==> SceneView:
+
+--> scene view wo section hia jiss jiss mai humm sari game ko develop krty hain 
+==> SceneView:
+
+--> scene view wo section hia jiss jiss mai humm sari game ko develop krty hain 
+==> SceneView:
+
+--> scene view wo section hia jiss jiss mai humm sari game ko develop krty hain 
+
+==> project section :
+jiss mai hmari game k jitny bhi asssets , pictures, or baqi cheezain pri hoti hian jinn ko use kr k humm game develope krty hain 
+
+==> inpector section :
+inspector wo section jhan har game object or project mai jitny bhi asssets pry hoty hain un ki properties ko show krvata hia hum ko just game object ya project mai pry kissi bhi asset per click krna hia jiss per inpector mai uss object ya assets ki properties show ho jyee gee
+
+==> Scene View
+
+--> scene view mai left side py ik panel khul k atta hai jiss mai drag , move ,rotate ki dye gye hoty hain jin ki help sy ap scene view k kissi bhi object ko rotate ya movement dy skty hain 
+
+==> set the game view 
+
+--> click the camera and then press cntrl+ shift + f ye krny sy apky game section jo bhi cheez ap draw kryn gy wo nazer aye gee
+
+==> alternate way
+
+-->go to the game object --> select align with the view 
+
+--> game mai jitny bhi object pry hain un k reference hirarchy mai pra ho ga or hirarchy ram mai load hoti hai 
+
+---> hirarchy ik temp memory hai jesy he game bnd hoti hai sary refernces remove ho jaty hain 
+
+--> project sectin all the assets used by game 
+
+--> unity k pany built-in object hain jesy cube ho gya or bhi hain ager humm bhair sy koi object game mai use krny chahty hain tow hmary project seciton mai hoga  
+
+--> jab bhi koi cheez humm bhir sy import kr k laty uss ko phy project mmai rakhty hain then drag kr k hirarchy mai rakhty hain the humm uss ko apni game mai use kr skty hain 
+
+--> hirarchy mai pry kissi bhi object ko click krny sy inpector mai uss ki properties aa jyn gee or ager hirarchy mai uss game obejct ko click kryn to to wo scene mai zaher ho jata hai
+
+--> ap hirarchy mai game object ko click kr k inspector mai har qisam  ki properties ko set krskty hain mean k uss ki movement , rotation or coloring wager , ap hirarchy mai game object ko select kr k bhi scene view mai ik tool bar section hota hia har object ki movement , ya rotation control krny k ap whi sy bhi krskty hain ye sara kuch 
+
+--> ap tools bar sy game obecct ki movement , rotation, or scale ko bhi kissi bhi corner sy bra ya chota kr skty hain 
+
+--> ap kissi bhi game object ko select kr k uss ki inspector mai ja k koi bhi component dy skty hain scirpt bhi ik component hia wo bumm agy ja k game object k sath attach kryn gy
+
+--> top per game ko play or pause krny ka option dia gya hai ap uss ko use kr game ko play or stop kr skty hain
+
+-> console mai humm ko error nazer ayn gy game k 
+
+

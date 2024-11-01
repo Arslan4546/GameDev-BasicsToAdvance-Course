@@ -1,0 +1,155 @@
+4th Lecture URL :
+
+https://www.youtube.com/watch?v=N13xGEHpBqk&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=4
+
+==> How to work with transform
+
+---> jab bhi humm hirarchy mai sy kissi bhi game object ko click krty hian to inpector window mai hmary pass transform property atti hai aj humm uss ko further properties ko discuss krny waly hain 
+
+--> transform mai ik position ki propety hoti hai jiss mai (x, y, z) hoty hain ap game object ko in 3no direction mai set kr skty hain 
+
+--> iss k ilava ik rotation bhi propery hain jis mai object ko kissi bhi direction mai rotate kr skty hain
+
+--> scale bhi ik property hain jiss ka by-default number (1,1,1) hota hia har object ager ye 1,1,1 na ho to ye nazer bhi ni aye ga game object humai
+
+--> Scene view mai kissi bhi object ki nazdeek ya door sy dekha hai to ap simply mouse ki sroll kr k bhi dekh skty but right click ko long press kr k ap scoll kryn gy ya mouse ko move kryn tab bhi ap iss object ko har lehaz sy dekh skty hain 
+
+--> object ko zoom kr k dekhny k short cut ye hia pa uss per click kryn or shift + w press krny sy uss objct per zoon ho jyee ga
+
+
+--> apka hirarchy mai camery ko select kr k inspector mai uss k har pproperties ko explore kr skty hian 
+
+--> ap apni marzi ka scene mai view set krty hain to scene mai pani marzi ka view set kr cntrl + shift + f press kryn ye apka view set ho jyee ga 
+
+==> Creating Script In the Project section:
+--> ap project ka kissi bhi folder mai script ko create kr skty  hain or apna ik scripts k alida folder create kr k bhi uss mia script bna skty hain 
+
+--> script ka name mtlab class ka name hota hai mtlab apny jo bhi name dena hai wo script ki class hogee or apny scipt ka name aisa dena hai jo apy kam ko show kry jesy cube ki script ka name aap CubeController rakh ly isss ye wazy hota hia k ye cube ko control kr rha hia game mai
+
+--> iss per double click krny sy ye vs mai open ho jyyee gee 
+
+--> ab humm kuch code likhny wlay hain script k ander jo hmari cube ko movement ko controll kry ga 
+
+--> code 
+
+  this.transform.position = new Vector3(12, 12, 0);
+  this.transform.localScale = new Vector3(10, 10, 10);
+  this.transform.rotation = Quaternion.Euler(0, 10, 10);  
+
+ye code humm ny start method k ander likhna hai or ab iss script wali file ko humm ny apny cube object k sath attach krna hai or jab humm run kryn gy to ye code k mutabiq react work kry ga 
+
+--> iss script ko humm ny cube object per click kr k inspector mai add components per CubeController ko add krna hai or run krny per ye change kry ga position or scale or rotation 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -6,3 +6,35 @@ https://www.youtube.com/watch?v=I7AGbyqXzVs&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu
 
 --> just follow the simple steps and do the same things
 
+==> Setting Visual Studio
+
+---> edit--> preferences --> external tools ---> select visual studion .
+ ye krny sy apka unity conncect ho jye ga visual studio sy 
+
+==> setting Game Dev Window:
+
+--> ap game dev window bhi set kr skty hain just drag and drop sy apny mutabiq har section ko drag and drop kr dyn or top right corner mai ja k jo setting apny set ki hai uss ko save kr dyn 
+
+==> adding console in the game dev window:
+
+--> go to the window --> select general --> drag the console and drop it where you want 
+
+==> addding light in the game window
+
+--> go the window section --> rendering --> drag the light and drop it where you want 
+
+--> ab iss layout ko ap save kr lyn ager galti sy apka layout change bhi hota hia to apka backup py save layout pra ho jo apka bilkul bna hua 
+
+--> set the further settting by seeing the YT video
+
+==> setting the sdk paths
+
+--> edit --> preferences --> external tools 
+
+--> ager apka phly sy set hua aa rha hai sdk path to ap set na kryn otherwise ap video dekh k apna path set kr lyn 
+
+--> and last cheez ye hai jo video mai batayee gye hai k jdk ko local mai find kr k environment variables mai set krna hia 
+
+ 
+
+
