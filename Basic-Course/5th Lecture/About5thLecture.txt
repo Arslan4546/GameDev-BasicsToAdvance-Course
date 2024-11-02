@@ -1,0 +1,54 @@
+YT Video URL:
+
+https://www.youtube.com/watch?v=JHUytLQNogQ&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=5
+
+==> Learn About Game Object & Prefabs
+
+--> everything in that is used in the game is a game object 
+
+--> jab bhi kissi game object ko off krna ho to hirarchy mai uss ko click kryn or ab inspector window mai top left corner mai ik check box hoga uss ko off kryn gy to wo object off ho jyee ga or dobara click krny per ye dobara one ho jye ga
+
+--> Ap ik object k ander dosra object ko ly skty hian mtlab ik object k ander sub-object ly skty hain jesy humm ny cube k ander plane lia hai 
+
+---> ab cube wali properites to plane mai hon gee but plane wali properties cube mai ni hon gee
+
+--> hmm iss ki script likhain jiss mai cube ko rotate , move krvain gy but plane apny ap ko parent cube k hisab sy apny ap ko change kr ly ga ye iss k fact hai 
+
+
+--> ye code hoga scipt k ander
+
+  this.transform.position = new Vector3(12, 12, 0);
+  this.transform.localScale = new Vector3(10, 10, 10);
+  this.transform.rotation = Quaternion.Euler(0, 10, 10);  
+
+--> ab ye iss code k lehaz sy apny apko change kr ly ga
+
+--> iss lecture kuch environment ko import kia gya hia aisy environment unity mai ni banty iss k lyee alag he tools hoty hian 
+
+
+==> what are prefabs Imp Topic
+
+--> prefabs basically copy of Game object hain 
+
+
+==> what are levels
+
+--> Baically har game different levels per contain krti hai jesy k uss ka suppose jungle separate level mai hota hai or uss ka city ik or level mai create hota hai or jab game complete ho jetti hai to tmam levels ko merge kr dia jata hai 
+
+--> ap project mai ja k folder create kr k uss mai level create kr skty hain 
+
+==> how to create prefabs and how can we use one prefab with multiple levels
+
+--> ager apki game k diffent level hain to apko ik scene mai wo game object bna k project section mai drop kr dena hai or phir jis level mai chahee drag and drop kr skty hain simple
+
+--> ager ap chahty hain k mai apnh prefabs mai koi bhi chnaging kroo wo mery herLevel per ja ka change ho jyee khud ba khud to apko prebfabs bna k Project section mai rakhna pry ga or jiss level sy prefabs uthaya hai uss sy delete kr k project window mai sy dobara ussi level mai dal doo aisy he humm project window mai prefabs mai changing kryn gy to har jaga change ho jyee ga hmara prefabs 
+
+--> apko prefabs ko sub level per apply krny k lyee inpector window mia ja k override krna pry ga override kerny sy he change applyy hhon gee cheezain
+
+
+
+
+
+
+
+

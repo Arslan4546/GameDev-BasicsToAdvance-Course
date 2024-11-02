@@ -1,0 +1,71 @@
+YT URl Video:
+
+https://www.youtube.com/watch?v=5ovokIE2SQo&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=6
+
+--> apko kissi bhi game object ki copy banany k lyee uss per click kr k apko Ctrl+d krna hai udhr he uss game object ki copy aa jyee gee 
+
+--> humm ny iss lecture mai 3 cube with plane lyeee hain ab apko ik script bna k cube k sath attaach krna hai or uss mai generic code likhna hoga jo sab cube per aply ho 
+
+==> Code
+public Vector3 cubePosition;
+public Vector3 cubeScale;
+public Vector3 cubeRotation;
+// Start is called once before the first execution of Update after the MonoBehaviour is created
+void Start()
+{
+
+    this.transform.position = new Vector3(cubePosition.x, cubePosition.y, cubePosition.z);
+    this.transform.localScale = new Vector3(cubeScale.x, cubeScale.y, cubeScale.z);
+    this.transform.rotation = Quaternion.Euler(cubeRotation.x, cubeRotation.y, cubeRotation.z);
+
+} this is the generic code 
+
+--> ye code likhny k bad humm har cube object ki khud ja scale or rotation change kr skty hain humain code mai deny ki koi zaroorat ni hai  huain scale , roatation, or direction k lyee inpector window per bottom mai script ka section ho ga uss mai jo kr set kryn gy to ye runtime per change ho ager inpector window mai uper dyn gy to ye ussi time he change ho jyee ga 
+
+--> Adding Tag:
+
+tag add krny k lyee apko kissi bhi game object per click kr dyn inspector window mai top left mai ik tags ko option mily uss mai ja k ap new tag bhi bna skty hain or purany bny hue tag ko game object ko assign bhi kr skty hain
+
+==>  code of the Tags in the start() fucntin:
+
+     GameObject.FindGameObjectsWithTag("cube1");
+     GameObject.FindGameObjectsWithTag("cube2");
+     GameObject.FindGameObjectsWithTag("cube3");
+
+issi trah ap tags ko find kr skty hain code k through
+
+==> Adding layers into the game object:
+
+tags k bilkul he next py apko inspector window mai apko layer ka option mily ga iss mai addLayer mia ja k ap layer ko har game object jo assign kr skty hain
+
+--> jab ap layer ko create kr lyn gy to ap jab bhi game kissi game object ko layer assignn kr rhy hoon to ye phly poochy ga k ussi game object ko just assign hona hai ya phir uss k sath sath uss k child ko bhi assign hona hai 
+
+==> code of layers in the script:
+
+    public int mLayer;
+ 
+    void Start()
+    {
+  print(LayerMask.LayerToName(mLayer));
+
+
+}
+
+--> script mai ye code likh dyn gy to run krny per ye console mai layer name print krva k dy dy ga q k humm ny code generic likha hai 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
