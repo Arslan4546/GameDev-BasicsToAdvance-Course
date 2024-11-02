@@ -1,0 +1,30 @@
+YT Video Link :
+
+https://www.youtube.com/watch?v=OFLFCWyVZ_4&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=7
+
+==> Particle System & Material, Shader, Textures:
+
+--> Particals basically game object sy specific qisam k component nikalty hian un ko particals kehty hain 
+
+--> kissi  bhi game object per particals apply krny hon to apko uss game object mai mosue ka right click kr k effects mai ja k partical system  apply krna pry ga uss time particals apply ho jyn ga 
+
+--> jesy he ap particals apply krty hian 
+ap har particals ki properties ko explore kryn or apny particals ko use kryn apni requiremnts k mmutabiq
+
+==> Matrials:
+
+--> material basiccally ik shame hai jo ap bna k kissi bhi game objecct ko assign kr skty hain apko project window mai ja k material create kr lyn uss ko desing kr lyn or phir ap ussy kissi object ko assign kr dyn iss ka k assign krny ka tariqa ye hai k apko phly object per click krna hai or phir inspector window mai material k option mai just material ko drag kr k inpector waly material ko assign krna hai 
+
+--> ap material ko texture bhi dy skty hain texture basically ap picture ko khy skty hai ap nh koi picture uthani hai net sy or uss ko material ko assing kr deni hai or joon he material ka coloar change kryn gy sath sath picture ka bhi color ussi hisab sy change hoga 
+
+--> ap material ko apny hisab sy change kr skty hain humm yha per ik plane mai  image de hai floor ki or material k inpector mai ja k standered sy mobile/difuse mai shift ho gye iss sy ap floor ki widget mai kitny tiles or hight mia kitni tiles hoon ap ussi mai kr skty hian
+
+--> ager apko floor k lyee alg ko cube k lye alag material bananny hoon to ap dono k lye alag alag mateiral bna k designing dy k alag alag assigning kr skty hain 
+
+--> jab ap kissi plane ko material assign krty hain to ap ussi plan per click kryn or inpector window mai ja k nichy apko tiling k option hoga udhr sy bhi ap tiling kr skty hian 
+
+
+--> or issi ko he basically shader kehty hain k floor hmara kiss shape mai ho
+
+
+
