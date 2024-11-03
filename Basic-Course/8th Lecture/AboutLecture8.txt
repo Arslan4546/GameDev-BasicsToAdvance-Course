@@ -1,0 +1,52 @@
+YT Video Link:
+
+https://www.youtube.com/watch?v=WFvm8Jda5JY&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=8
+
+==>All About Terrain:
+
+-->terrain ik qisam ki ik space jiss ko ap game k scene mai add krny k bad uss per poora ka poora city ya jungle ban skty hain 
+
+--> apko terrain per picture set krny k lyee phly apko picture download kr k rakh leni hai project section k texture mai 
+
+--> trees k third section mai ja k scoll down kr k nichy edit details kr k add grass texture mai sy apny grass ko add kr lena hai 
+
+--> ab tress k second portion mai ja k edit mai ja k create layer mai apna grass  select ker lyn or double click krny per ye terrrain mai add ho jyee ga 
+
+--> tress k dosy section mai ja ap trees mai dy skty hain terrian mai or mountian bhi har qisam k ly skty hain it depends on you k ap kis qisam k lety hain tress or anythings else 
+
+--> iss trah mukhtalif qisam k trees add kr skty hain 
+
+--> you can add water by simply finding the water in the packages that i import from my local system
+
+--> set the hight and width of the water 
+
+--> you can add the first person mean k camera just add kr skty hain 
+
+--> aisy he gari , banda ,ya jet wagera add kr skty hain 
+
+--> apko game ka camera off krna hoga packages sy thrid party camery ko use kryn gy jo game object ko follow kry ga 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
