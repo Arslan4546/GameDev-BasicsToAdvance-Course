@@ -1,0 +1,36 @@
+YT Video Link:
+
+https://www.youtube.com/watch?v=Xb7CIIi319k&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=10
+
+==> About Script
+
+--> basically jo bhi script apny game object k sath attach krty hain uss script k ander monobehaviour class hona lazmi hai ager uss sccript k ander humm monoBehaviour khatam kr dyn to ye kissi bhi game obect k sath attach ni hogee 
+
+--> kissi bhi script k top py 3 libruary  import hue hoti hain ager jhan un ka use hai ager wo wha ni hain to compile time error aye ga 
+
+--> ager humain koi function add krna hai game mai to unity ny iss k lyee nameSpace rakhi hue hain just unn ko import kroo or use kroo jo bhi funncion chahyee
+
+--> ap jo start() mai code hai uss k pana koi fucntion ban k uss mai kr skty hain just or ab just start() mai add kr 
+
+
+--> you can perform this whole process by using prameterize function 
+
+--> you can also make a fucntion that can return a value and call it in the update () fucntion
+
+
+--> lets practice in the script
+
+--> iss k ilava humm ny methods override perform bhi krna hai 2 classes bna leni hian ik parent or ik child dono child parent ko extends kr ly gee or parent wala banaya gya function hum child classs mia access kr lyn gy 
+
+--> bs simply iss ko script mai practice krna hia 
+
+
+
+
+
+
+
+
+
+
+
