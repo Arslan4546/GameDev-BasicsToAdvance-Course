@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\10th Lecture\\Project\\Lecture10thProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30187104-7500-6D23-E8C5-7B0BAB329E76}|Assembly-CSharp.csproj|a:\\development folder\\game-development-basics\\basic-course\\10th lecture\\project\\lecture10thproject\\assets\\scripts\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30187104-7500-6D23-E8C5-7B0BAB329E76}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30187104-7500-6D23-E8C5-7B0BAB329E76}|Assembly-CSharp.csproj|a:\\development folder\\game-development-basics\\basic-course\\10th lecture\\project\\lecture10thproject\\assets\\scripts\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30187104-7500-6D23-E8C5-7B0BAB329E76}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30187104-7500-6D23-E8C5-7B0BAB329E76}|Assembly-CSharp.csproj|a:\\development folder\\game-development-basics\\basic-course\\10th lecture\\project\\lecture10thproject\\assets\\scripts\\cubecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30187104-7500-6D23-E8C5-7B0BAB329E76}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChildClass.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\10th Lecture\\Project\\Lecture10thProject\\Assets\\Scripts\\ChildClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChildClass.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\10th Lecture\\Project\\Lecture10thProject\\Assets\\Scripts\\ChildClass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChildClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:23:13.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentClass.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\10th Lecture\\Project\\Lecture10thProject\\Assets\\Scripts\\ParentClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParentClass.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\10th Lecture\\Project\\Lecture10thProject\\Assets\\Scripts\\ParentClass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParentClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:22:21.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CubeController.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\10th Lecture\\Project\\Lecture10thProject\\Assets\\Scripts\\CubeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeController.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\10th Lecture\\Project\\Lecture10thProject\\Assets\\Scripts\\CubeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:12:03.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

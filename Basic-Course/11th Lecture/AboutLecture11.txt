@@ -1,0 +1,28 @@
+YT Video link:
+
+https://www.youtube.com/watch?v=H_Yg42uGPUc&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=11
+
+--> iss mai apny simple cubeController ki script k ander if else laga ka check krna hia k kia ye controller kissi game object yani cube k sath attach hai ye ni hia start() fuction k ander if-else ka code likhain or ye 3 bar pirnt ho ga q k ye 3 game object k sath attach hai 
+
+--> ager script ko separate dyn to ye not attached ko print kry ga 
+
+
+--> ager game object off hai but script uss per lgee hai to phir bhi start() function kam kr jyee ga but ager game object bhi off hai or script bhi ni lagee huee to ye ni chaly ga 
+
+--> ager hum ny koi game object per koi script attach ki hai or start() function sy bilkul uper ik public variable dia hia to uss script per koi bhi game object assign kr skty hian 
+
+--> humm ik or script lyn gy jissy cube assign kry gy issi trah sy hmm oss cube per lgy tag ko bhi check kr skty hain k kia iss per koi tag laga hai ya ni to ye attached ya not attached ka option dy gee output mai
+
+--> iss trah haum strt() Function k ander switch statement use krni hai or run kr k output leni hia hmm ny just 
+
+--> iss trah humm loops or list ko script mai use krty hian 
+
+--> array ko use kr k ap forEach loop ki help sy ik sath multiple game object ko active and deactive kr skty hain 
+
+--> ap array mai mesh render ko bhi use krskty hain or multiple operation perform kr skty hain
+
+--> Basically ko ye sari video dekh k practice krni chahyee lazmi  tab ja apko grip ho gee iss mai 
+
+--> 
+
+--> 
