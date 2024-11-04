@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8993B9E9-E971-182C-D334-349FDB71E926}|Assembly-CSharp.csproj|a:\\development folder\\game-development-basics\\basic-course\\11th lecture\\project\\lecture11thproject\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993B9E9-E971-182C-D334-349FDB71E926}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8993B9E9-E971-182C-D334-349FDB71E926}|Assembly-CSharp.csproj|a:\\development folder\\game-development-basics\\basic-course\\11th lecture\\project\\lecture11thproject\\assets\\scripts\\cubecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993B9E9-E971-182C-D334-349FDB71E926}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8993B9E9-E971-182C-D334-349FDB71E926}|Assembly-CSharp.csproj|A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\assets\\scripts\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993B9E9-E971-182C-D334-349FDB71E926}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8993B9E9-E971-182C-D334-349FDB71E926}|Assembly-CSharp.csproj|A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\assets\\scripts\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8993B9E9-E971-182C-D334-349FDB71E926}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\childclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\Assets\\Scripts\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\Assets\\Scripts\\Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:14:17.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildClass.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\Assets\\Scripts\\ChildClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChildClass.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\Assets\\Scripts\\ChildClass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChildClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:51:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParentClass.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\Assets\\Scripts\\ParentClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParentClass.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\Assets\\Scripts\\ParentClass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParentClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:51:07.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CubeController.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\Assets\\Scripts\\CubeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeController.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\11th Lecture\\Project\\Lecture11thProject\\Assets\\Scripts\\CubeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:50:45.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

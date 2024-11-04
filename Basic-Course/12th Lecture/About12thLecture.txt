@@ -1,0 +1,76 @@
+YT Video Linke:
+
+https://www.youtube.com/watch?v=kn6x9BINKoc&list=PLeDTi8nLAyNn4WvLaJhGNp1TLfA8vu0WD&index=12 
+
+--> Basically iss video mai humm Function K Sequence ko samjhyn gy 
+
+--> first of all humm phly awak ka fucntion test kryn gy koi bhi random script or random game object bna k 
+
+--> Awak() Function 
+
+humm script mai awake fucntion ban ka uss k ander ik line print krty hain or uuss script k sath ik game object bhi attach krty hian to jab bhi game run ho gee ik dafa awake() functin call ho jyee ga 
+
+--> onEnable() Function
+
+onEnable bhi ussi fucntion mai banyn gy 
+
+onENable function likny sy sscript wali jaga py tick aa jyee ga jo k awake waly fucntion mai ni that q k awake fucntion disable componenet per bhi run ho jata that but ye ni aisa krta 
+
+--> ager humm component ko disable kry to awake chaly ga but onEnable ni chaly ga jab tk game object ko on ni kryn gy
+
+--> onEnable Function tab chly ga jab component on hoga ya hmara game object on hoga dono mai sy ik object ka on hona zaroori hai 
+
+--> Start() Function game k run hony tak ik he bar chaly ga but jab jab he game object ya component on/off hoga tab he onEnable fucntion call hoga 
+
+--> Update() Function
+
+--> update fucntion game k start hony sy agy chalta he rhy ga ye iss ki counting ho gee k 1 seconds k ander kitni frames atti hain 
+
+--> Late UPdate() Function 
+ye fucntion hamesha update function k bad he chaly ga 
+
+--> onDisable() Function
+ye bilkul onENable ki trah ka fucntion hai jesy he hum kissi obeject ya component ko onDisable ya onEnable krty hain tb ye call hoty hian
+
+--> onDistroy ka fucntion tab he call hoga jab koi script ya game object delete hoga 
+
+--> fixUpdate() function
+basically fix fucntion fix time py call hoga or wo timing hum khud set krty hian edit mai ja k timing mai ja ka fix Timing ko set krty hain 
+
+--> Cube Component Enable/Disable
+
+--> idhar humm ny ik script banyn gy jiss mai humm cube k component idhr component ka mtlab script hota hia uss ki access kryn gy or un ko enable/disable kry gy
+
+---> humm array ly k bhi cubes k component ki active deactive kr skty hian or arry ly loop k sath or individually bhi components ko off krva skty hain 
+
+-->  humm cubes ki har index ko access kr k bhi mukhtalif tareqy sy uss ki properties ko access kr active/deactive ho skty hian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
