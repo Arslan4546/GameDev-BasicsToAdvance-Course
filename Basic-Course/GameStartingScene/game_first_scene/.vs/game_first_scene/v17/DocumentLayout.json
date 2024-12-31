@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{489CF667-5D2A-F39D-CC02-B6C7289755C3}|Assembly-CSharp.csproj|a:\\development folder\\game-development-basics\\basic-course\\gamestartingscene\\game_first_scene\\assets\\classwork\\scripts\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{489CF667-5D2A-F39D-CC02-B6C7289755C3}|Assembly-CSharp.csproj|solutionrelative:assets\\classwork\\scripts\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489CF667-5D2A-F39D-CC02-B6C7289755C3}|Assembly-CSharp.csproj|A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\assets\\mywork\\scripts\\splashscreencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489CF667-5D2A-F39D-CC02-B6C7289755C3}|Assembly-CSharp.csproj|solutionrelative:assets\\mywork\\scripts\\splashscreencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489CF667-5D2A-F39D-CC02-B6C7289755C3}|Assembly-CSharp.csproj|A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\assets\\classwork\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489CF667-5D2A-F39D-CC02-B6C7289755C3}|Assembly-CSharp.csproj|solutionrelative:assets\\classwork\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489CF667-5D2A-F39D-CC02-B6C7289755C3}|Assembly-CSharp.csproj|A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\assets\\mywork\\scripts\\switchpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489CF667-5D2A-F39D-CC02-B6C7289755C3}|Assembly-CSharp.csproj|solutionrelative:assets\\mywork\\scripts\\switchpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwitchPanel.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\Assets\\MyWork\\Scripts\\SwitchPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\MyWork\\Scripts\\SwitchPanel.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\Assets\\MyWork\\Scripts\\SwitchPanel.cs",
+              "RelativeToolTip": "Assets\\MyWork\\Scripts\\SwitchPanel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:45:36.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\Assets\\ClassWork\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\ClassWork\\Scripts\\Menu.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\Assets\\ClassWork\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\ClassWork\\Scripts\\Menu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:14:31.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SplashScreenController.cs",
+              "DocumentMoniker": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\Assets\\MyWork\\Scripts\\SplashScreenController.cs",
+              "RelativeDocumentMoniker": "Assets\\MyWork\\Scripts\\SplashScreenController.cs",
+              "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\Assets\\MyWork\\Scripts\\SplashScreenController.cs",
+              "RelativeToolTip": "Assets\\MyWork\\Scripts\\SplashScreenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:38:53.193Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +72,7 @@
               "RelativeDocumentMoniker": "Assets\\ClassWork\\Scripts\\Loading.cs",
               "ToolTip": "A:\\Development Folder\\Game-Development-Basics\\Basic-Course\\GameStartingScene\\game_first_scene\\Assets\\ClassWork\\Scripts\\Loading.cs",
               "RelativeToolTip": "Assets\\ClassWork\\Scripts\\Loading.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T16:21:42.263Z",
               "EditorCaption": ""

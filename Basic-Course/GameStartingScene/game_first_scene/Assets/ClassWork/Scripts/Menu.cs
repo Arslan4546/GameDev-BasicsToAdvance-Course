@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-    public GameObject exitPanel,menuPanel;
+    public GameObject exitPanel,menuPanel,levelSelectionPanel;
    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -25,6 +25,8 @@ public class Menu : MonoBehaviour
 
     public void playBtnClick()
     {
+        levelSelectionPanel.SetActive(true);
+        menuPanel.SetActive(false);
 
     }
 
@@ -35,6 +37,6 @@ public class Menu : MonoBehaviour
     }
     public void yesBtnClick()
     {
-       // Application.close();
+      
     }
 }
